@@ -1,0 +1,39 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	max-height: 100%;
+}
+
+.left {
+	height: 100%;
+	width: 33.33%;
+	float: left;
+	background-color: #4A90E2;
+}
+
+.middle {
+	height: 100%;
+	width: 33.33%;
+	float: left;
+	background-color: #50E3C2;
+}
+
+.right {
+	height: 100%;
+	width: 33.33%;
+	float: right;
+	background-color: #B8E986;
+}
+
+.bottom {
+	display: inline-block;
+	height: 25%;
+	width: 33.33%;
+	background-color: red;
+  text-align: center;
+  float: right;
+  position: absolute;
+  margin-top: 51.5%;
+  color: white ;
+}
