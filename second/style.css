@@ -36,4 +36,10 @@ html, body {
   position: absolute;
   margin-top: 51.5%;
   color: white ;
+  font-size: 24px;
+}
+
+.bottom p {
+  position: relative;
+  top: 33%;
 }
